@@ -1,4 +1,26 @@
+<!-- ![Header](./header.png) -->
+
 <h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p align="left">I'm Priya Jani, a web developer, from Gandhinagar, Gujarat.</p>
+
+###
+
+<!-- <img align="right" alt="GIF" src="https://media1.tenor.com/images/9fb771fb621c29b0a2eae945b5ceeeb3/tenor.gif" width="350"/> -->
+
+<h2> 👨🏻‍💻 About Me </h2>
+
+- 🎓 I’m currently in my final year of BTech CSE @ Ahmedabad University.
+- 👀 I’m interested in becoming a Software Engineer.
+- 📚 I'm currently learning web technologies and sometimes get curiosity in ML/AI .
+- 🎯 Goals: Creating my portfolio, ideating some projects and yes, learning new things each day.
+- 🎲 Fun fact: My ideas can go wild. I dance in my own room. I eat a lot while working (munching chips quietly right now).
+
+<h3>🛠 Tech Stack</h3>
+
+<!-- <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
@@ -13,7 +35,7 @@
 <br clear="both">
 
 <p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning web technologies and sometimes get curiosity in ML/AI .<br>🎯 Goals: Creating my portfolio, ideating some projects and yes, learning new things each day.<br>🎲 Fun fact: My ideas can go wild. I dance in my own room. I eat a lot while working (munching chips quietly right now).</p>
-
+-->
 
 <!--
 ###
