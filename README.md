@@ -74,7 +74,7 @@
 <p align="left">Frontend</p> 
 
 <!-- <img align="right" alt="GIF" src="./thinking.png" width="350"/> --> 
-<img align="right" alt="GIF" src="./working.gif" width="550"/> 
+<img align="right" alt="GIF" src="./working.gif" width="350"/> 
 
 ###
 
