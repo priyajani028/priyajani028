@@ -189,6 +189,8 @@
 
 <p align="left">I am also at</p>
 
+<img align="right" src="./thinking1.png" width="250"/>
+
 [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />](https://leetcode.com/priyajani028/)
 [<img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" />](https://www.codechef.com/users/priyajani028)
 [<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />](https://codeforces.com/profile/priyajani028)
@@ -197,13 +199,14 @@
 
 ###
 
-<p align="left">Let's Connect</p> 
-<!-- <img align="right" alt="GIF" src="./thinking.png" width="350"/> -->
+<p align="left">Let's Connect</p>  
 
 ### 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:priyajani028@gmail.com)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/priya-jani-13a0411bb/)
 
+
+![Snake animation](https://github.com/priyajani028/priyajani028/blob/output/github-contribution-grid-snake.svg)
 <!--
 ### Github Stats:
 <center>
